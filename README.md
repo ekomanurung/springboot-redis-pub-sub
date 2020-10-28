@@ -1,4 +1,4 @@
-# Getting Started
+## Simple Redis Pub sub using spring boot and reactor
 
 ##### Prerequisite
     redis local installed 
